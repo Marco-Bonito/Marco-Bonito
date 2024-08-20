@@ -43,10 +43,20 @@ Ambiti di interesse:
   
   - Continuare a crescere come sviluppatore, esplorando nuove tecnologie e migliorando costantemente le mie competenze.
   - Avanzare nella mia carriera professionale, contribuendo attivamente alla realizzazione di progetti innovativi e di alto impatto all'interno delle aziende in cui lavoro.
+    
+🔗 Dove Trovare i Miei Progetti:
 
-🔗 Dove trovarmi:
+  - Js      :
+  - Py      :
+  - Flutter :
+  - Kotlin  :
+  - Sql     :
+
+🌐 Dove trovarmi:
 
   - Linkedin : https://www.linkedin.com/in/marco-bonito-dev/
   - Whatsapp : +39 3400673376
   - Email    : marco.bonito.dev@gmail.com
   - Email 2  : mbonito2001@gmail.com
+
+
