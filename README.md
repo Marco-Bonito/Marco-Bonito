@@ -46,11 +46,11 @@ Ambiti di interesse:
     
 🔗 Dove Trovare i Miei Progetti:
 
-  - Js      :
-  - Py      :
-  - Flutter :
-  - Kotlin  :
-  - Sql     :
+  - Js      : https://github.com/Marco-Bonito-Js
+  - Py      : https://github.com/Marco-Bonito-Py
+  - Flutter : https://github.com/Marco-Bonito-Flutter
+  - Kotlin  : https://github.com/Marco-Bonito-Kt
+  - Sql     : https://github.com/Marco-Bonito-Sql
 
 🌐 Dove trovarmi:
 
