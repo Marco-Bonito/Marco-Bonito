@@ -1,6 +1,6 @@
 👋 Ciao, sono Marco Bonito!
 
-🎂 Età: 22 anni
+🎂 Età: 23 anni
 
 🎓 Formazione:
 
