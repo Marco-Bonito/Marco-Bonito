@@ -1,7 +1,5 @@
 👋 Ciao, sono Marco Bonito!
 
-🎂 Età: 23 anni
-
 🎓 Formazione:
 
   - Diploma: Perito Informatico (2020)
@@ -11,7 +9,6 @@
 💼 Esperienze lavorative:
 
   - Stage (4 mesi): Domethics - Sviluppo di applicazioni mobile con Flutter, creazione di componenti UX/UI con Figma e Adobe XD.
-  - Freelancer (Luglio 2023 - Novembre 2023): Sviluppo di applicazioni mobile con Flutter e soluzioni software in Python.
   - Lavoro Attuale (da Novembre 2023): ICP Informatica - Ampliamento e miglioramento di software gestionali web utilizzando JavaScript e SQL Server.
 
 
@@ -20,7 +17,6 @@
 Linguaggi:
 
   - Flutter (Mobile App Development)
-  - Kotlin (Sviluppo Android)
   - Python (Soluzioni Software)
   - JavaScript (Web Development)
   - SQL Server (Database Management)
@@ -30,27 +26,21 @@ Strumenti:
   - Figma e Adobe XD (Design UX/UI)
   - Android Studio (Sviluppo Android)
   - PyCharm (Sviluppo Python)
-  - Visual Studio Code, Git, GitHub
+  - Visual Studio Code
+  - Git, GitHub
   
 Ambiti di interesse:
 
   - Sviluppo di applicazioni mobile
   - Progettazione UX/UI
   - Sviluppo software
-  - Creazione Trading System
+  - Creazione Automation System
   
 🚀 Obiettivi Futuri:
   
   - Continuare a crescere come sviluppatore, esplorando nuove tecnologie e migliorando costantemente le mie competenze.
   - Avanzare nella mia carriera professionale, contribuendo attivamente alla realizzazione di progetti innovativi e di alto impatto all'interno delle aziende in cui lavoro.
     
-🔗 Dove Trovare i Miei Progetti:
-
-  - Js      : https://github.com/Marco-Bonito-Js
-  - Py      : https://github.com/Marco-Bonito-Py
-  - Flutter : https://github.com/Marco-Bonito-Flutter
-  - Kotlin  : https://github.com/Marco-Bonito-Kt
-  - Sql     : https://github.com/Marco-Bonito-Sql
 
 🌐 Dove trovarmi:
 
